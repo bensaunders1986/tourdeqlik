@@ -1,0 +1,11 @@
+{
+    "devices": [
+        {
+            "device": "PowerMeter",
+            "id": 31688,
+            "serial": 31688,
+            "transmission_type": 5,
+            "type": 11
+        }
+    ]
+}
