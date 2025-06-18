@@ -1,0 +1,46 @@
+{
+    "devices": [
+        {
+            "device": "PowerMeter",
+            "id": 43930,
+            "serial": 4294967295,
+            "transmission_type": 5,
+            "type": 11
+        },
+        {
+            "device": "FitnessEquipment",
+            "id": 43930,
+            "serial": 244300930,
+            "transmission_type": 5,
+            "type": 17
+        },
+        {
+            "device": "FitnessEquipment",
+            "id": 43847,
+            "serial": 4294967295,
+            "transmission_type": 5,
+            "type": 17
+        },
+        {
+            "device": "PowerMeter",
+            "id": 43847,
+            "serial": 244300847,
+            "transmission_type": 5,
+            "type": 11
+        },
+        {
+            "device": "PowerMeter",
+            "id": 43936,
+            "serial": 4294967295,
+            "transmission_type": 5,
+            "type": 11
+        },
+        {
+            "device": "FitnessEquipment",
+            "id": 43936,
+            "serial": 244300936,
+            "transmission_type": 5,
+            "type": 17
+        }
+    ]
+}
