@@ -41,6 +41,20 @@
             "serial": 244300936,
             "transmission_type": 5,
             "type": 17
+        },
+        {
+            "device": "PowerMeter",
+            "id": 17714,
+            "serial": 251700714,
+            "transmission_type": 5,
+            "type": 11
+        },
+        {
+            "device": "FitnessEquipment",
+            "id": 17714,
+            "serial": 251700714,
+            "transmission_type": 5,
+            "type": 17
         }
     ]
 }
