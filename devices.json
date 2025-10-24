@@ -2,6 +2,20 @@
     "devices": [
         {
             "device": "PowerMeter",
+            "id": 28987,
+            "serial": 40252847987,
+            "transmission_type": 5,
+            "type": 11
+        },
+        {
+            "device": "FitnessEquipment",
+            "id": 28987,
+            "serial": 40252847987,
+            "transmission_type": 5,
+            "type": 17
+        },
+        {
+            "device": "PowerMeter",
             "id": 43930,
             "serial": 4294967295,
             "transmission_type": 5,
